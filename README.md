@@ -1,4 +1,15 @@
-### Hi there 👋
+
+前言：
+
+    1、技术之路，无年龄、学校/公司之分，仅有专攻、恩师/伯乐之别。独行者速，众行者远，诸君共勉...
+    2、“如果说我看得比别人更远些，那是因为我站在巨人的肩膀上”，前辈的经验教训是为了让后辈们少走弯路。如未体味，跻于他山，以行践言。
+
+
+Preface:
+
+    1. The path of technology is not divided by age, school/company, but by specialization, mentor/Bole. Traveling alone is fast, and all travelers are far away. Let's encourage each other.
+    2. "If I have seen further, it is by standing on the shoulders of giants." The lesson of our predecessors is to help them avoid detours. If you haven't understood it yet, climb up to other mountains to verify your words.
+
 
 <!--
 **namespacebox/namespacebox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
